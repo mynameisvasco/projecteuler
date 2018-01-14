@@ -1,0 +1,11 @@
+/Users/vascosousa/Projects/Problem_9/Problem_9/bin/Debug/netcoreapp2.0/Problem_9.deps.json
+/Users/vascosousa/Projects/Problem_9/Problem_9/bin/Debug/netcoreapp2.0/Problem_9.runtimeconfig.json
+/Users/vascosousa/Projects/Problem_9/Problem_9/bin/Debug/netcoreapp2.0/Problem_9.runtimeconfig.dev.json
+/Users/vascosousa/Projects/Problem_9/Problem_9/bin/Debug/netcoreapp2.0/Problem_9.dll
+/Users/vascosousa/Projects/Problem_9/Problem_9/bin/Debug/netcoreapp2.0/Problem_9.pdb
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.csprojResolveAssemblyReference.cache
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.csproj.CoreCompileInputs.cache
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.AssemblyInfoInputs.cache
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.AssemblyInfo.cs
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.dll
+/Users/vascosousa/Projects/Problem_9/Problem_9/obj/Debug/netcoreapp2.0/Problem_9.pdb
